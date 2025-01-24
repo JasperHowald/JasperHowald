@@ -26,3 +26,4 @@ Fix bug in feature X
 Fix broken link
 Optimize loop
 Optimize loop
+Update dependencies
