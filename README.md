@@ -28,3 +28,4 @@ Optimize loop
 Optimize loop
 Update dependencies
 Refactor core logic
+Add documentation
