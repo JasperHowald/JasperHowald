@@ -19,3 +19,4 @@ Rewrite function Y
 Add new utility script
 Fix broken link
 Add documentation
+Fix bug in feature X
