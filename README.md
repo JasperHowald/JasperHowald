@@ -23,3 +23,4 @@ Fix bug in feature X
 Remove unused imports
 Fix bug in feature X
 Fix bug in feature X
+Fix broken link
